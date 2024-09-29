@@ -2,3 +2,9 @@ site_name: zzw4257 的学术博客
 site_url: https://blog.zzw4257.cn
 theme:
   name: material
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+extra_css:
+  - stylesheets/extra.css
