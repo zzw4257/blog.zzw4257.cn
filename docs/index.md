@@ -39,7 +39,7 @@ Supported types:`note`,`abstract`,`info`,`tip`,`success`,`question`,`failure`,`w
 
 !!! warning
 
-!!! 
+!!!
 
 #### Collapsible blocks
 

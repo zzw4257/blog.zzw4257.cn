@@ -8,3 +8,7 @@ markdown_extensions:
   - pymdownx.superfences
 extra_css:
   - stylesheets/extra.css
+nav:
+  - Home: index.md
+  - About: about.md
+  - basic-subject: cleabasic-subject/
